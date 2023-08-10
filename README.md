@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou [Seu Nome] 👋</h1>
 <p align="center">
-  <a href="mailto:seuemail@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/seulinkedin"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:thullyocontact@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/thúllyo-barcellos-953532269/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <p align="center">Desenvolvedor apaixonado por tecnologia, com conhecimento intermediário em JavaScript, básico em C++, Python, HTML e CSS.</p>
@@ -30,8 +30,8 @@ Conte-nos sobre o que você está estudando atualmente e quais são os seus plan
 
 Se você quiser entrar em contato, sinta-se à vontade para me enviar um e-mail ou se conectar comigo pelo LinkedIn.
 
-- Email: [seuemail@example.com](mailto:seuemail@example.com)
-- LinkedIn: [seulinkedin](https://linkedin.com/in/seulinkedin)
+- Email: [seuemail@example.com](mailto:thullyocontact@gmail.com)
+- LinkedIn: [seulinkedin](https://www.linkedin.com/in/thúllyo-barcellos-953532269/)
 
 ## Academic Background
 
