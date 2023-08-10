@@ -26,11 +26,13 @@ I'm learning about MySQL, JS, HTML, CSS, PYTHON.
 Bachelor's Degree, Information Systems
 Estácio
 Jan 2023 - current
+
 Studying Information Systems.
 
 Technology Degree, Computer Systems Technology
 Universidade Federal Fluminense (UFF)
 Jan 2023 - current
+
 Pursuing a Technology in Computer Systems degree.
 
 Made with ❤️ and ☕️
