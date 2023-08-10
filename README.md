@@ -33,9 +33,19 @@ Se você quiser entrar em contato, sinta-se à vontade para me enviar um e-mail 
 - Email: [seuemail@example.com](mailto:seuemail@example.com)
 - LinkedIn: [seulinkedin](https://linkedin.com/in/seulinkedin)
 
-## ⚡ Curiosidade
+## Academic Background
 
-Compartilhe uma curiosidade interessante sobre você, algo que os outros possam achar interessante.
+### Bachelor's Degree, Information Systems
+![Estácio Logo](https://link-to-your-image.com/estacio-logo.png)  
+**Estácio**  
+*Jan 2023 - Dec 2026*  
+Studying Information Systems.
 
----
+### Technology Degree, Computer Systems Technology
+![UFF Logo](https://link-to-your-image.com/uff-logo.png)  
+**Universidade Federal Fluminense (UFF)**  
+*Jan 2023 - Dec 2025*  
+Pursuing a Technology in Computer Systems degree.
+
+
 Feito com ❤️ e ☕️
