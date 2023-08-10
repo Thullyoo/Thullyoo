@@ -24,14 +24,7 @@ Descreva aqui a sua experiência relevante, projetos em que trabalhou e qualquer
 
 ## 🌱 Atualmente Aprendendo
 
-Conte-nos sobre o que você está estudando atualmente e quais são os seus planos para o futuro.
-
-## 📫 Contato
-
-Se você quiser entrar em contato, sinta-se à vontade para me enviar um e-mail ou se conectar comigo pelo LinkedIn.
-
-- Email: [seuemail@example.com](mailto:thullyocontact@gmail.com)
-- LinkedIn: [seulinkedin](https://www.linkedin.com/in/thúllyo-barcellos-953532269/)
+I'm learning about MySQL, JS, HTML, CSS, PYTHON. 
 
 ## Academic Background
 
