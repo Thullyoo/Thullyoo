@@ -18,11 +18,7 @@ Aqui estão algumas das tecnologias com as quais estou familiarizado:
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-## 💼 Experiência
-
-Descreva aqui a sua experiência relevante, projetos em que trabalhou e qualquer outra informação que você gostaria de compartilhar.
-
-## 🌱 Atualmente Aprendendo
+## 🌱 Currently learning
 
 I'm learning about MySQL, JS, HTML, CSS, PYTHON. 
 
