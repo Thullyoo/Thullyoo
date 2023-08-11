@@ -19,7 +19,7 @@ Here are some of the technologies I'm familiar with:
 
 🌱 Currently learning
 
-I'm learning about MySQL, JS, HTML, CSS, PYTHON.
+I'm learning about PHP, MySQL, JS, HTML, CSS, PYTHON.
 
 🎓 Academic Background
 
