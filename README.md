@@ -1,9 +1,9 @@
-<h1 align="center">Hello, my name is Thúllyo 👋</h1>
+<h1 align="center">Hello, I'm Thúllyo 👋</h1>
 <p align="center">
   <a href="mailto:thullyocontact@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/thúllyo-barcellos-953532269/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
-<p align="center">Passionate developer enthusiastic about technology, with intermediate knowledge in JavaScript, basic in C++, Python, HTML, and CSS.</p>
+<p align="center">Passionate developer enthusiastic about technology, with intermediate knowledge in JavaScript, TypeScript, HTML, CSS, and Angular.</p>
 
 🚀 Technologies
 
@@ -11,28 +11,41 @@ Here are some of the technologies I'm familiar with:
 
 <p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img alt="C++" src="https://img.shields.io/badge/-C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="Angular" src="https://img.shields.io/badge/-Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
 </p>
 
-🌱 Currently learning
+👨‍💻 About me 👨‍💻
 
-I'm learning about MySQL, JS, HTML, CSS, PYTHON.
+Hello world! My name is Thúllyo, and I'm a student at UNESA and UFF. I'm currently in my second semester at both universities, and I'm driven to study and become a front-end developer.
+
+Some of my skills and competencies:
+
+- HTML, CSS, JS
+- TypeScript
+- Angular
+- Python - basic
+- C++ - basic
+- Git
+- Github
+- Intermediate English proficiency
+
+I'm currently studying Java/Angular through the Santander bootcamp and also diving into Python.
 
 🎓 Academic Background
 
-Bachelor's Degree, Information Systems
-Estácio
-Jan 2023 - current
+- Bachelor's Degree, Information Systems
+  Estácio
+  Jan 2023 - current
+  Studying Information Systems.
 
-Studying Information Systems.
+- Technology Degree, Computer Systems Technology
+  Universidade Federal Fluminense (UFF)
+  Jan 2023 - current
+  Pursuing a Technology in Computer Systems degree.
 
-Technology Degree, Computer Systems Technology
-Universidade Federal Fluminense (UFF)
-Jan 2023 - current
+Made with ❤️ 
 
-Pursuing a Technology in Computer Systems degree.
-
-Made with ❤️ and ☕️
+---
