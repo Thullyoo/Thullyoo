@@ -15,6 +15,7 @@ Here are some of the technologies I'm familiar with:
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/-Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
 👨‍💻 About me 👨‍💻
@@ -26,6 +27,7 @@ Some of my skills and competencies:
 - HTML, CSS, JS
 - TypeScript
 - Angular
+- Java
 - Python - basic
 - C++ - basic
 - Git
