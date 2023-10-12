@@ -32,6 +32,7 @@ Some of my skills and competencies:
 - Java
 - Python - basic
 - C++ - basic
+- PHP - basic
 - Git
 - Github
 - Intermediate English proficiency
