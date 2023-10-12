@@ -33,6 +33,7 @@ Some of my skills and competencies:
 - Python - basic
 - C++ - basic
 - PHP - basic
+- MongoDB, MySQL, PostgreSQL - basic
 - Git
 - Github
 - Intermediate English proficiency
