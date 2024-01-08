@@ -38,7 +38,7 @@ Some of my skills and competencies:
 - Github
 - Intermediate English proficiency
 
-I'm currently studying Java/Angular through the Santander bootcamp and also diving into Python.
+I'm currently studying JavaScript/Typescript and react
 
 🎓 Academic Background
 
