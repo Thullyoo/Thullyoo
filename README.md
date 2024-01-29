@@ -22,17 +22,15 @@ Here are some of the technologies I'm familiar with:
 
 👨‍💻 About me 👨‍💻
 
-Hello world! My name is Thúllyo, and I'm a student at UNESA and UFF. I'm currently in my second semester at both universities, and I'm driven to study and become a front-end developer.
+Hello world! My name is Thúllyo, and I'm a student at UNESA and UFF. I'm currently in my third semester at both universities, and I'm driven to study and become a front-end developer.
 
 Some of my skills and competencies:
 
 - HTML, CSS, JS
 - TypeScript
-- Angular
-- Java
-- Python - basic
-- C++ - basic
-- PHP - basic
+- React
+- Angular - basic
+- Java, Python, C++, PHP - basic
 - MongoDB, MySQL, PostgreSQL - basic
 - Git
 - Github
