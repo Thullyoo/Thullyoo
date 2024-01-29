@@ -15,8 +15,8 @@ Here are some of the technologies I'm familiar with:
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/-React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white"/>
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img alt="Java" src="https://img.shields.io/badge/-Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=red"/>
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-%777BB4.svg?style=for-the-badge&logo=php&logoColor=purple"/>
 </p>
 
