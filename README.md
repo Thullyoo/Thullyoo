@@ -17,7 +17,8 @@ Here are some of the technologies I'm familiar with:
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/-React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white"/>
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP-%777BB4.svg?style=for-the-badge&logo=php&logoColor=purple"/>
+ <img alt="Java" src="https://img.shields.io/badge/-Java-%23FFA500.svg?style=for-the-badge&logo=java&logoColor=white"/>
+
 </p>
 
 👨‍💻 About me 👨‍💻
@@ -29,8 +30,9 @@ Some of my skills and competencies:
 - HTML, CSS, JS
 - TypeScript
 - React
-- Angular - basic
-- Java, Python, C++, PHP - basic
+- Angular
+- Java (Springboot)
+- Python, C++, PHP, C# - basic
 - MongoDB, MySQL, PostgreSQL - basic
 - Git
 - Github
