@@ -23,7 +23,7 @@ Here are some of the technologies I'm familiar with:
 
 👨‍💻 About me 👨‍💻
 
-Hello world! My name is Thúllyo, and I'm a student at UNESA and UFF. I'm currently in my third semester at both universities, and I'm driven to study and become a front-end developer.
+Hello world! My name is Thúllyo, and I'm a student at UNESA and UFF. I'm currently in my third semester at both universities, and I'm driven to study and become a Full-Stack developer.
 
 Some of my skills and competencies:
 
@@ -38,7 +38,7 @@ Some of my skills and competencies:
 - Github
 - Intermediate English proficiency
 
-I'm currently studying JavaScript/Typescript and react
+I'm currently studying Java for API with SpringBoot 
 
 🎓 Academic Background
 
@@ -49,7 +49,7 @@ I'm currently studying JavaScript/Typescript and react
 
 - Technology Degree, Computer Systems Technology
   Universidade Federal Fluminense (UFF)
-  Jan 2023 - current
+  Jan 2023 - 2024
   Pursuing a Technology in Computer Systems degree.
 
 Made with ❤️ 
