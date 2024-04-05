@@ -11,10 +11,10 @@ Aqui estão algumas das tecnologias com as quais estou familiarizado:
 
 
 <p align="center">
-  <img alt="React" src="https://img.shields.io/badge/-React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white"/>
-  <img alt="Angular" src="https://img.shields.io/badge/-Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
   <img alt="Java" src="https://img.shields.io/badge/-Java-%23FFA500.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/-React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white"/>
+  <img alt="Angular" src="https://img.shields.io/badge/-Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
 </p>
 
 👨‍💻 Sobre mim 👨‍💻
