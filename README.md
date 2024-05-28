@@ -1,52 +1,37 @@
-<h1 align="center">Olá, sou Thúllyo! 👋</h1>
-<p align="center">
-  <a href="mailto:thullyocontact@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/thúllyo-barcellos-953532269/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-<p align="center">Desenvolvedor apaixonado por tecnologia, com conhecimento em Java, Springboot, C#.</p>
+<h2 align="left">Olá 👋! Me chamo Thúllyo, e sou um desenvolvedor back-end.</h2>
 
-🚀 Tecnologias
+###
 
-Aqui estão algumas das tecnologias com as quais estou familiarizado:
+<div align="center">
+  <a href="https://www.linkedin.com/in/thúllyo-barcellos-953532269/"><img src="https://github-readme-stats.vercel.app/api?username=Thullyoo&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  /></a>
+  <a href="mailto:thullyocontact@gmail.com"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thullyoo&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  /></a>
+</div>
 
+###
 
-<p align="center">
-  <img alt="Java" src="https://img.shields.io/badge/-Java-%23FF5733.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img alt="C#" src="https://img.shields.io/badge/C%23-%237D3B8C.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-</p>
+<img align="right" height="150" src="https://gifdb.com/images/high/gojo-satoru-waving-a-hand-wybn7rcs8ums1xum.gif"  />
 
+###
 
-👨‍💻 Sobre mim 👨‍💻
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+</div>
 
-Olá, mundo! Me chamo Thúllyo, e sou estudante na UNESA. Atualmente estou no terceiro período, e estou focado em estudar e me tornar um desenvolvedor Back-end ou Full-Stack.
+###
 
-Algumas das minhas habilidades e competências:
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+</div>
 
-- Java (Spring Boot)
-- C#
-- React
-- Angular, TypeScript - Básico
-- Python, C++, C# - básico
-- MongoDB, MySQL, PostgreSQL - básico
-- Git
-- Github
-- Proficiência intermediária em inglês
-
-Atualmente estou estudando Java SpringBoot, Python FastAPI com IA e C#.
-
-🎓 Formação Acadêmica
-
-- Bacharelado, Sistemas de Informação
-  Estácio
-  Jan 2023 - presente
-  Estudando Sistemas de Informação.
-
-- Tecnólogo, Tecnologia em Sistemas de Computação
-  Universidade Federal Fluminense (UFF)
-  Jan 2023 - 2024
-  Estudando Tecnologia em Sistemas de Computação.
-
-Feito com ❤️ 
-
----
+###
