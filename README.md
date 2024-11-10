@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Me chamo Thúllyo, e sou um desenvolvedor back-end.</h2>
+<h2 align="left">Olá 👋! Me chamo Thúllyo, e sou um desenvolvedor Java back-end.</h2>
 
 ###
 
