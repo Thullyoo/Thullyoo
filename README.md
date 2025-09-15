@@ -1,4 +1,4 @@
-<h2 align="center">Olá 👋! Meu nome é Thúllyo, <br>DevOps e Desenvolvedor Back-End Java, estudante de Sistemas de Computação na UFF</h2>
+<h2 align="center">Olá 👋! Meu nome é Thúllyo, <br>Desenvolvedor Back-End Java | DevOps , estudante de Sistemas de Computação na UFF</h2>
 
 ###
 
