@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋! Meu nome é Thúllyo</h1>
 
 <h3 align="center">
-  Desenvolvedor Back-End Java | Especialista em DevOps
+  DevOps | Desenvolvedor Back-End Java
 </h3>
 
 <p align="center">
