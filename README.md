@@ -116,15 +116,3 @@ Projeto que implementa um pipeline de CI/CD robusto para uma aplicação FastAPI
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 <br>
 🔗 **Repositório:** [https://github.com/Thullyoo/helloapp-fastapi](https://github.com/Thullyoo/helloapp-fastapi)
-
----
-
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thullyoo&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Thullyoo" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thullyoo&layout=compact&theme=onedark&langs_count=6" alt="Linguagens Mais Usadas de Thullyoo" />
-</div>
-
-<br>
-<br>
