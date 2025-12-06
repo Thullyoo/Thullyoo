@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  Sou um engenheiro apaixonado por construir sistemas robustos e escaláveis. 
+  Sou um estudante em Sistemas de Computação pela UFF apaixonado por construir sistemas robustos e escaláveis. 
   Minha experiência foca no ecossistema <strong>Java e Spring</strong>, 
   combinada com a otimização de entrega de software através de práticas 
   modernas de <strong>DevOps, CI/CD, GitOps e Orquestração de Contêineres (Kubernetes)</strong>
