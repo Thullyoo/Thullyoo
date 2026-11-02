@@ -1,11 +1,11 @@
 <h1 align="center">Olá 👋! Eu sou o Thúllyo</h1>
 
 <h3 align="center">
-  Estagiário DevOps @ <strong>CashMe</strong>
+  Estagiário SRE @ <strong>CashMe</strong>
 </h3>
 
 <p align="center">
-Atualmente sou estagiário na área de <strong>DevOps</strong> na <strong>CashMe</strong>, onde atuo no suporte à infraestrutura em nuvem AWS, pipelines CI/CD, GitOps, conteinerização,monitoramento de aplicações, e evolução da esteira de entrega.<br><br>
+Atualmente sou estagiário na área de <strong>SRE</strong> na <strong>CashMe</strong>, onde atuo no suporte à infraestrutura em nuvem AWS, pipelines CI/CD, GitOps, conteinerização,monitoramento de aplicações, e evolução da esteira de entrega.<br><br>
 Sou estudante de <strong>Sistemas de Computação</strong> pela <strong>UFF</strong>, busco construir e manter ambientes escaláveis, observáveis e automatizados. Meu foco está em <strong>DevOps</strong>, <strong>Cloud Native</strong>, <strong>IaC</strong>, <strong>GitOps</strong> e práticas que aceleram entregas com qualidade e segurança.
 </p>
 
